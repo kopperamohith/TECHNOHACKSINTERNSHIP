@@ -15,8 +15,8 @@ Task-1: Temperature converter which converts temperature from farenheit to celci
 
 ========================================================================================
 
-Task-2: .
+Task-2: Password generator used to generate sensitive and strong password in python.
 
 ========================================================================================
 
-Task-3: .
+Task-3: simple calculator for mathematical operations.
